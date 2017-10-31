@@ -1,0 +1,74 @@
+A. what is machine learning?
+for task, has a performance plan. 
+then computer can use auto learn the experience of the task.
+1. part 1
+for more comfortable, good， amount exprience to enhance the performance of the task.
+
+ML is one sub branch of AI.
+
+base on know data, 
+(x1,1)  (x2, 0)  (x3, 0) (x4, 1) (x5, 1)
+
+unbalance data
+click per day
+ill
+
+business, to check the data. 
+
+accurate to check the model is good or bad.
+
+2. part 2
+
+3. part 3
+what can be resolved by ML?
+a. data clean / 
+b.  model / enhance parameter
+
+
+4. part 4
+classifier
+
+5. part 5 
+based on training data (include x, y), create a model
+feature vectors, algorithm
+
+expected label
+
+    5.1 get data
+    5.2 clean data
+    5.3 get feature ***
+    5.4 create model
+
+get more feature from business experts
+
+6. algorithm, 
+different assumption on data
+基于数据做不同的假设
+different scalability profiles at training time
+训练时间不同的规模
+different latencies at prediction time
+
+different mode size (embedability in mobile devices)
+模型大小
+
+7. DL is on branch of ML. 1959
+神经网络
+
+
+topic
+
+LDA = linear discriminant analysis  1930
+有监督 降维 分类 
+
+LDA =  latent dirichlet allocation
+无监督 
+
+
+
+
+
+
+
+
+
+
